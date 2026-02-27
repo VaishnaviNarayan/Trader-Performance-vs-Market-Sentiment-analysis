@@ -1,0 +1,8 @@
+{
+  "Strategy 1 \u2014 Position Sizing by Sentiment": {
+    "rule": "During Fear days, high-size traders avg PnL: $278,058.01 vs Greed: $84,630.25. Low-size traders avg PnL: $140,687.32 (Fear) vs $98,469.23 (Greed). RULE: Reduce position sizes during Fear periods for high-size traders. Low-size traders are more resilient to sentiment shifts."
+  },
+  "Strategy 2 \u2014 Trade Frequency by Sentiment": {
+    "rule": "Frequent traders avg PnL: Fear=$324,428.02, Greed=$142,172.86. Infrequent traders avg PnL: Fear=$94,317.31, Greed=$42,498.45. RULE: During Fear days, increase selectivity \u2014 fewer but more considered trades. During Greed days, frequent trading is acceptable as momentum tends to be favorable."
+  }
+}

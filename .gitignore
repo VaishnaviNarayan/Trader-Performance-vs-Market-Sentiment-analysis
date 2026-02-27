@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.env
+implementation_plan.md
+MANUAL_TASKS.md
+D:/pylibs/
+D:/temp/
