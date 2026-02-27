@@ -10,8 +10,7 @@ Date   : 2026-02-26
 =============================================================================
 """
 
-import sys, os, warnings
-sys.path.insert(0, "D:/pylibs")
+import os, warnings
 warnings.filterwarnings("ignore")
 
 import pandas as pd

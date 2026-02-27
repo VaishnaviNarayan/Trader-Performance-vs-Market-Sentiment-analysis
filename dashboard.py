@@ -6,9 +6,6 @@ Launch:  streamlit run dashboard.py
 =============================================================================
 """
 
-import sys
-sys.path.insert(0, "D:/pylibs")
-
 import streamlit as st
 import pandas as pd
 import numpy as np
